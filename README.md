@@ -1,4 +1,4 @@
-![Tom Stout](/images/cc_logo.png)
+![Tom Stout](/images/TSP logo.png)
 
 
 
