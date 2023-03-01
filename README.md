@@ -20,4 +20,4 @@
 ![NodeJS](https://img.shields.io/badge/node_js-009639?style=for-the-badge&logo=node&logoColor=white)
 ![Express](https://img.shields.io/badge/express_js-316192?style=for-the-badge&logo=expresjs&logoColor=white)
 
-![My Skills](https://skillicons.dev/icons?i=django,python,docker,postgres,aws,html,css,javascript,node,expres,git)
+![My Skills](https://skillicons.dev/icons?i=django,python,react,docker,postgres, markdown,aws,html,css,javascript,nodejs,expresjs,photoshop,lightroom,git)
