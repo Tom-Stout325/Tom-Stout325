@@ -2,12 +2,12 @@
 
 
 
+<img src="/images/api.png" width=70 height=70>
 <img src="/images/django_fppxu2V.png" width=70 height=70>
+<img src="/images/aws.png" width=70 height=70>
+<img src="/images/Bootstrap.png" width=70 height=70>
+<img src="/images/css_Pn32x1k.png" width=70 height=70>
 
-
-
-
-![Django](/images/django_fppxu2V.png)
 ![Api](/images/api.png)
 ![AWS](/images/aws.png)
 ![Bootstrap](/images/Bootstrap.png)
