@@ -17,3 +17,6 @@
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![HTML](https://img.shields.io/badge/Photoshop-316192?style=for-the-badge&logo=photoshop&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-100000?style=for-the-badge&logo=markdown&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-009639?style=for-the-badge&logo=node&logoColor=white)
+![HTML](https://img.shields.io/badge/express_js-316192?style=for-the-badge&logo=expresjs&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-100000?style=for-the-badge&logo=markdown&logoColor=white)
