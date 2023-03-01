@@ -1,4 +1,4 @@
-<img src="/images/TSP logo.png">
+<img src="/images/tsp logo.png">
 
 
 <div>
