@@ -2,8 +2,12 @@
 
 
 
+<img src="/images/django_fppxu2V.png" width=70 height=70>
 
-> ![Django](/images/django_fppxu2V.png)
+
+
+
+![Django](/images/django_fppxu2V.png)
 ![Api](/images/api.png)
 ![AWS](/images/aws.png)
 ![Bootstrap](/images/Bootstrap.png)
@@ -23,3 +27,4 @@
 ![TypeScript](/images/typescript_dziY0C5.png)
 ![VS Code](/images/vsCode.png)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
+</div>
