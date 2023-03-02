@@ -4,3 +4,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=django,python,react,docker,postgres,markdown,aws,html,github,css,javascript,nodejs,expressjs,swift,git,)
 
+
+<h2 align="center">My Recent Projects</h2>
+
